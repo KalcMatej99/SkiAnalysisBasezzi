@@ -46,7 +46,7 @@ for day in ["G1", "P1", "P2"]:
                         df.loc[len(df)] = [run['label'], fileName, run["id"], day, False, run["startedAt"], run["totalDuration"]]
                         row +=1
                         # You can use runData now for whatever processing you like to do
-                        runs_of_filename.append(run)
-            print(fileName, "has", len(runs_of_filename))
+                        runs_of_filename.append(run["id"])
+            print(fileName, "has", runs_of_filename)
 workbook.close()
 df.to_csv("../data/filtered/Dati_filtrati_all.csv", index = False)

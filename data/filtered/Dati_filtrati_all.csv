@@ -1,19 +1,14 @@
 Atleta,File_gps,File_time,Day,DNF,StartTime,Time
-GPS matteo dnf,../data/G1/0eb0781f-744c-450d-8d6b-e97a6b13d32a-resampled.csv,d9550d49-51cd-4f33-89b9-132229f94cc3,G1,True,1666254759.5,43.93
+GPS matteo dnf,../data/G1/0eb0781f-744c-450d-8d6b-e97a6b13d32a-resampled.csv,d9550d49-51cd-4f33-89b9-132229f94cc3,G1,False,1666254759.5,43.93
 GPS ela,../data/G1/213ae5cc-65f8-4930-a034-bf4dc2eae950-resampled.csv,8819f21a-e7cf-4902-8594-a99422a087cc,G1,False,1666253235.4,45.4
 GPS martin,../data/G1/2669730a-67a2-48c7-818b-5cd2ecfec89d-resampled.csv,6f86baa4-baef-45b9-91a9-03d5297ff828,G1,False,1666257756.84,44.04
-GPS meggye,../data/G1/303af368-a921-454b-a05c-76799c9c8021-resampled.csv,0d3cdd18-8bb6-421c-9727-6493132512f8,G1,False,1666249666.71,48.65
 GPS meggye,../data/G1/6a81168d-4940-48c5-8981-bd809fb6ebf5-resampled.csv,0d3cdd18-8bb6-421c-9727-6493132512f8,G1,False,1666249666.71,48.65
 GPS cate,../data/G1/7146465b-ba5c-4300-af0c-043e579c13bc-resampled.csv,e55c6c13-8ad4-4f27-8509-2627c7e15000,G1,False,1666250640.57,44.45
-GPS martin,../data/G1/7af9a467-b0b8-4636-81ae-f47fca403b0c-resampled.csv,aaa56591-e0e4-47df-9f65-391cba7dc264,G1,False,1666254004.94,43.38
 GPS Ilaria,../data/G1/85e148df-0b3c-4994-82d2-ac033a3167e5-resampled.csv,9b1cf9ec-e798-4a4a-896f-289963344901,G1,False,1666252215.52,47.19
 GPS aydan,../data/G1/92cfda15-66c1-4f84-8123-e0ed1135d1e2-resampled.csv,711af94b-32fc-4a3e-a57c-94094576a647,G1,False,1666256983.39,45.54
-GPS ela2,../data/G1/9348535c-147a-4553-9860-e10e2b168502-resampled.csv,7d9194df-cc41-4776-bdbf-9b53a667eb5e,G1,False,1666256215.86,45.37
 GPS giorgio,../data/G1/9f86ac8b-d9b5-4623-aada-b4557ec160fe-resampled.csv,ecdddfb7-360d-47c3-b287-6f004790ec0f,G1,False,1666255465.03,46.01
 GPS Ilaria,../data/G1/a8b20cfa-e7dd-41f6-a184-31351cb9d875-resampled.csv,219be45d-395b-4166-83a4-dd9424d07a29,G1,False,1666258422.17,47.46
-GPS bea,../data/G1/be5e753b-2fd1-45c1-b101-3a969c8611a6-resampled.csv,20062c55-4adb-4fc8-8674-7bbd9b582e51,G1,False,1666251437.62,44.89
 GPS martin,../data/G1/c50fd215-01c8-4948-9c4e-9133696d494f-resampled.csv,aaa56591-e0e4-47df-9f65-391cba7dc264,G1,False,1666254004.94,43.38
-GPS Ilaria,../data/G1/d46689ee-9da7-485d-a5d0-c8481a38cd96-resampled.csv,9b1cf9ec-e798-4a4a-896f-289963344901,G1,False,1666252215.52,47.19
 GPS ela2,../data/G1/e00a402d-96a5-4522-b4cd-9b12b0cc2cce-resampled.csv,7d9194df-cc41-4776-bdbf-9b53a667eb5e,G1,False,1666256215.86,45.37
 GPS bea,../data/G1/e8f686d3-cc65-4bbb-9e54-07e501f4d799-resampled.csv,20062c55-4adb-4fc8-8674-7bbd9b582e51,G1,False,1666251437.62,44.89
 GPS Zavattarelli ,../data/P1/1a50d4b0-e1db-498d-99f1-9b09b2ea2c66-resampled.csv,af90cde0-bba7-4800-bbdf-b77c9a1e857e,P1,False,1666771308.57,35.62
@@ -28,10 +23,9 @@ GPS Nik,../data/P1/e8aa40a3-9f54-4d8b-bc6c-ab0369ce9903-resampled.csv,51dac331-4
 GPS Manca,../data/P2/02d7d896-e139-4bec-b8e1-325d995784ac-resampled.csv,0657cdd4-77d4-4531-9f39-b814c18fef57,P2,False,1666855710.77,39.01
 GPS Zavattarelli ,../data/P2/08c2eb3d-6378-4723-b279-ba1dd9707539-resampled.csv,c267dd15-7963-45eb-8f50-cecad9bdac5e,P2,False,1666855196.66,35.77
 GPS gal,../data/P2/0c65d602-1d78-4928-8479-ecf7f379c96b-resampled.csv,bcb01797-4372-4e5c-8fab-133013e674a2,P2,False,1666856534.05,35.47
-GPS chiara,../data/P2/445506b6-d3c2-4652-8bb0-d4710bc29060-resampled.csv,a9e51f8f-eec9-4fa9-a67e-389333b82516,P2,False,1666858340.86,35.73
 GPS Cate,../data/P2/826e4d89-1893-4340-9a5b-e1aaee3d9d5d-resampled.csv,987622c6-63a0-4f82-8694-9ddf894141c8,P2,False,1666853321.44,35.03
 GPS Francesco,../data/P2/aec20d08-f114-4f63-87e1-23a6181456ef-resampled.csv,076c15b5-6249-44fa-8a5f-17f87f7473de,P2,False,1666859889.88,35.01
-GPS Zavattarelli DNF,../data/P2/b2a77a61-db79-47c7-8ccd-40c86b37eeeb-resampled.csv,60e4a812-4955-49ca-9cf1-db7286bcd6e6,P2,True,1666854650.02,35.98
+GPS Zavattarelli DNF,../data/P2/b2a77a61-db79-47c7-8ccd-40c86b37eeeb-resampled.csv,60e4a812-4955-49ca-9cf1-db7286bcd6e6,P2,False,1666854650.02,35.98
 GPS chiara,../data/P2/bf87b2f3-9e81-438a-90cf-7046750c2ebd-resampled.csv,a9e51f8f-eec9-4fa9-a67e-389333b82516,P2,False,1666858340.86,35.73
 GPS bea,../data/P2/dacec0b0-7f24-4e92-bba3-e5b6e8649b90-resampled.csv,10a190b4-06ef-4803-8d5f-23dacf9ceec1,P2,False,1666852883.81,36.25
 GPS Sofia,../data/P2/fed06dd6-c72c-477f-8778-23ca991ce4ea-resampled.csv,41546c9b-b81e-45a9-9cd8-58aebd621714,P2,False,1666859071.47,37.61
