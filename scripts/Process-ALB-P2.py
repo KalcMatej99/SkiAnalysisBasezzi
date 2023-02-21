@@ -4,10 +4,10 @@ import glob
 import json
 import xlsxwriter
 
-data_folder = '../data/G1'
-timing_json = '../data/G1/timing-data-G1.json'
+data_folder = '../data/P2'
+timing_json = '../data/P2/timing-data-P2.json'
 row = 1
-workbook = xlsxwriter.Workbook('../data/filtered/Dati_filtrati_G1.xlsx')
+workbook = xlsxwriter.Workbook('../data/filtered/Dati_filtrati_P2.xlsx')
 worksheet = workbook.add_worksheet()
 worksheet.write('A1', 'Atleta')
 worksheet.write('B1', 'File')
