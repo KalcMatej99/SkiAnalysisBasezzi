@@ -7,11 +7,13 @@ import xlsxwriter
 workbook = xlsxwriter.Workbook('../data/filtered/Dati_filtrati_all.xlsx')
 worksheet = workbook.add_worksheet()
 worksheet.write('A1', 'Atleta')
-worksheet.write('B1', 'File')
-worksheet.write('C1', 'Day')
+worksheet.write('B1', 'File from GPS')
+worksheet.write('C1', 'File Time')
+worksheet.write('D1', 'Day')
+worksheet.write('E1', 'Time')
 row = 1
 
-df = pd.DataFrame(columns=["Atleta", "File", "Day"])
+df = pd.DataFrame(columns=["Atleta", "File_gps", "File_time", "Day", "DNF", "StartTime", "Time"])
 
 for day in ["G1", "P1", "P2"]:
     data_folder = f'../data/{day}'
@@ -27,9 +29,6 @@ for day in ["G1", "P1", "P2"]:
                         if 'profile' in run and run['profile']['id']
                 == 'cbb60118-cd9e-4dd7-9418-066832b9e9ed']
         for fileName in files:
-            print(' ')
-            print("File Name:")
-            print(fileName)
             data = pd.read_csv(fileName)
             # check if data covers one run
 
@@ -40,13 +39,12 @@ for day in ["G1", "P1", "P2"]:
                     if not runData.empty:
                         worksheet.write(row, 0, run['label'])
                         worksheet.write(row, 1, fileName)
-                        worksheet.write(row, 2, day)
-                        df.loc[len(df)] = [run['label'], fileName, day]
-                        print('Athlete: ' + run['label'])
-                        print('Data found!')
-                        print(row)
+                        worksheet.write(row, 2, run["id"])
+                        worksheet.write(row, 3, day)
+                        worksheet.write(row, 4, run["totalDuration"])
+                        
+                        df.loc[len(df)] = [run['label'], fileName, run["id"], day, False, run["startedAt"], run["totalDuration"]]
                         row +=1
-                        print('*************************************************')
                         # You can use runData now for whatever processing you like to do
                         runs_of_filename.append(run)
             print(fileName, "has", len(runs_of_filename))
