@@ -1,5 +1,5 @@
 Atleta,File_gps,File_time,Day,DNF,StartTime,Time
-GPS matteo dnf,../data/G1/0eb0781f-744c-450d-8d6b-e97a6b13d32a-resampled.csv,d9550d49-51cd-4f33-89b9-132229f94cc3,G1,False,1666254759.5,43.93
+GPS matteo dnf,../data/G1/0eb0781f-744c-450d-8d6b-e97a6b13d32a-resampled.csv,d9550d49-51cd-4f33-89b9-132229f94cc3,G1,True,1666254759.5,43.93
 GPS ela,../data/G1/213ae5cc-65f8-4930-a034-bf4dc2eae950-resampled.csv,8819f21a-e7cf-4902-8594-a99422a087cc,G1,False,1666253235.4,45.4
 GPS martin,../data/G1/2669730a-67a2-48c7-818b-5cd2ecfec89d-resampled.csv,6f86baa4-baef-45b9-91a9-03d5297ff828,G1,False,1666257756.84,44.04
 GPS meggye,../data/G1/6a81168d-4940-48c5-8981-bd809fb6ebf5-resampled.csv,0d3cdd18-8bb6-421c-9727-6493132512f8,G1,False,1666249666.71,48.65
@@ -25,7 +25,7 @@ GPS Zavattarelli ,../data/P2/08c2eb3d-6378-4723-b279-ba1dd9707539-resampled.csv,
 GPS gal,../data/P2/0c65d602-1d78-4928-8479-ecf7f379c96b-resampled.csv,bcb01797-4372-4e5c-8fab-133013e674a2,P2,False,1666856534.05,35.47
 GPS Cate,../data/P2/826e4d89-1893-4340-9a5b-e1aaee3d9d5d-resampled.csv,987622c6-63a0-4f82-8694-9ddf894141c8,P2,False,1666853321.44,35.03
 GPS Francesco,../data/P2/aec20d08-f114-4f63-87e1-23a6181456ef-resampled.csv,076c15b5-6249-44fa-8a5f-17f87f7473de,P2,False,1666859889.88,35.01
-GPS Zavattarelli DNF,../data/P2/b2a77a61-db79-47c7-8ccd-40c86b37eeeb-resampled.csv,60e4a812-4955-49ca-9cf1-db7286bcd6e6,P2,False,1666854650.02,35.98
+GPS Zavattarelli DNF,../data/P2/b2a77a61-db79-47c7-8ccd-40c86b37eeeb-resampled.csv,60e4a812-4955-49ca-9cf1-db7286bcd6e6,P2,True,1666854650.02,35.98
 GPS chiara,../data/P2/bf87b2f3-9e81-438a-90cf-7046750c2ebd-resampled.csv,a9e51f8f-eec9-4fa9-a67e-389333b82516,P2,False,1666858340.86,35.73
 GPS bea,../data/P2/dacec0b0-7f24-4e92-bba3-e5b6e8649b90-resampled.csv,10a190b4-06ef-4803-8d5f-23dacf9ceec1,P2,False,1666852883.81,36.25
 GPS Sofia,../data/P2/fed06dd6-c72c-477f-8778-23ca991ce4ea-resampled.csv,41546c9b-b81e-45a9-9cd8-58aebd621714,P2,False,1666859071.47,37.61

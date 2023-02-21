@@ -1,5 +1,4 @@
 Athlete,Day,File_gps,Distance
-GPS matteo dnf,G1,../data/G1/0eb0781f-744c-450d-8d6b-e97a6b13d32a-resampled.csv,835.6033026699863
 GPS ela,G1,../data/G1/213ae5cc-65f8-4930-a034-bf4dc2eae950-resampled.csv,841.4344384913635
 GPS martin,G1,../data/G1/2669730a-67a2-48c7-818b-5cd2ecfec89d-resampled.csv,834.4999784228368
 GPS meggye,G1,../data/G1/6a81168d-4940-48c5-8981-bd809fb6ebf5-resampled.csv,843.5754750238641
@@ -25,7 +24,6 @@ GPS Zavattarelli ,P2,../data/P2/08c2eb3d-6378-4723-b279-ba1dd9707539-resampled.c
 GPS gal,P2,../data/P2/0c65d602-1d78-4928-8479-ecf7f379c96b-resampled.csv,773.070220954041
 GPS Cate,P2,../data/P2/826e4d89-1893-4340-9a5b-e1aaee3d9d5d-resampled.csv,774.1555398225862
 GPS Francesco,P2,../data/P2/aec20d08-f114-4f63-87e1-23a6181456ef-resampled.csv,775.7569509299049
-GPS Zavattarelli DNF,P2,../data/P2/b2a77a61-db79-47c7-8ccd-40c86b37eeeb-resampled.csv,774.7437506973777
 GPS chiara,P2,../data/P2/bf87b2f3-9e81-438a-90cf-7046750c2ebd-resampled.csv,775.3018469894545
 GPS bea,P2,../data/P2/dacec0b0-7f24-4e92-bba3-e5b6e8649b90-resampled.csv,777.5094999111957
 GPS Sofia,P2,../data/P2/fed06dd6-c72c-477f-8778-23ca991ce4ea-resampled.csv,775.0211490116602
