@@ -21,6 +21,8 @@ with open(timing_json) as json_file:
                 for run in timing
                     if 'profile' in run and run['profile']['id']
             == 'cbb60118-cd9e-4dd7-9418-066832b9e9ed']
+
+    print("Timing", timing)
     for fileName in files:
         print(' ')
         print("File Name:")
