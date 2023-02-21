@@ -29,6 +29,7 @@ with open(timing_json) as json_file:
         print(fileName)
         data = pd.read_csv(fileName)
         # check if data covers one run
+
         for run in timing:
             if 'totalDuration' in run:
                 runData = data[(data['Timestamp'] >= run['startedAt']) & (data['Timestamp'] <= run['startedAt'] + run['totalDuration'])]
