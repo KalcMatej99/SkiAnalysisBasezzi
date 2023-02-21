@@ -1,0 +1,35 @@
+Athlete,Day,File_gps,Distance
+GPS ela,G1,../data/G1/213ae5cc-65f8-4930-a034-bf4dc2eae950-resampled.csv,824.4402945614304
+GPS martin,G1,../data/G1/2669730a-67a2-48c7-818b-5cd2ecfec89d-resampled.csv,817.4082864269943
+GPS meggye,G1,../data/G1/303af368-a921-454b-a05c-76799c9c8021-resampled.csv,826.7582161978181
+GPS meggye,G1,../data/G1/6a81168d-4940-48c5-8981-bd809fb6ebf5-resampled.csv,826.7582161978181
+GPS cate,G1,../data/G1/7146465b-ba5c-4300-af0c-043e579c13bc-resampled.csv,820.19847222108
+GPS martin,G1,../data/G1/7af9a467-b0b8-4636-81ae-f47fca403b0c-resampled.csv,643.6056909318286
+GPS Ilaria,G1,../data/G1/85e148df-0b3c-4994-82d2-ac033a3167e5-resampled.csv,822.7246342697568
+GPS aydan,G1,../data/G1/92cfda15-66c1-4f84-8123-e0ed1135d1e2-resampled.csv,820.9744178901428
+GPS ela2,G1,../data/G1/9348535c-147a-4553-9860-e10e2b168502-resampled.csv,821.0506556686933
+GPS giorgio,G1,../data/G1/9f86ac8b-d9b5-4623-aada-b4557ec160fe-resampled.csv,821.9332705877252
+GPS Ilaria,G1,../data/G1/a8b20cfa-e7dd-41f6-a184-31351cb9d875-resampled.csv,821.2394071736164
+GPS bea,G1,../data/G1/be5e753b-2fd1-45c1-b101-3a969c8611a6-resampled.csv,820.4628390429195
+GPS martin,G1,../data/G1/c50fd215-01c8-4948-9c4e-9133696d494f-resampled.csv,643.6056909318286
+GPS Ilaria,G1,../data/G1/d46689ee-9da7-485d-a5d0-c8481a38cd96-resampled.csv,822.7246342697568
+GPS ela2,G1,../data/G1/e00a402d-96a5-4522-b4cd-9b12b0cc2cce-resampled.csv,821.0506556686933
+GPS bea,G1,../data/G1/e8f686d3-cc65-4bbb-9e54-07e501f4d799-resampled.csv,820.4628390429195
+GPS Zavattarelli ,P1,../data/P1/1a50d4b0-e1db-498d-99f1-9b09b2ea2c66-resampled.csv,763.5652586813388
+GPS Vala Manka,P1,../data/P1/7b9b3882-d9c8-4d74-b6f3-92d15fd5d031-resampled.csv,760.4555534603443
+GPS Cate,P1,../data/P1/7c85e503-8287-4e2c-b69f-ac9e8a9b2cb8-resampled.csv,763.1009077968084
+GPS Gal,P1,../data/P1/8f53a4f1-b0fe-47d0-8dbb-1ecc29b8d384-resampled.csv,760.1820114316554
+GPS Bea,P1,../data/P1/a428c925-034d-4119-974d-3626dad5eafe-resampled.csv,760.3169706012808
+GPS Jelenček,P1,../data/P1/ae2ecfac-610f-473d-81b4-927d3654bca9-resampled.csv,765.2345061014632
+GPS Cate,P1,../data/P1/d3b79fa1-459e-4b36-b4d9-c28ab53de2f9-resampled.csv,764.6116876704125
+GPS Bea,P1,../data/P1/d8e68817-55d8-4407-a726-dc5149d2ab6b-resampled.csv,765.4162813237875
+GPS Nik,P1,../data/P1/e8aa40a3-9f54-4d8b-bc6c-ab0369ce9903-resampled.csv,762.6937356226533
+GPS Manca,P2,../data/P2/02d7d896-e139-4bec-b8e1-325d995784ac-resampled.csv,760.1027088721356
+GPS Zavattarelli ,P2,../data/P2/08c2eb3d-6378-4723-b279-ba1dd9707539-resampled.csv,758.1102840021726
+GPS gal,P2,../data/P2/0c65d602-1d78-4928-8479-ecf7f379c96b-resampled.csv,758.2184918147201
+GPS chiara,P2,../data/P2/445506b6-d3c2-4652-8bb0-d4710bc29060-resampled.csv,760.3916395359133
+GPS Cate,P2,../data/P2/826e4d89-1893-4340-9a5b-e1aaee3d9d5d-resampled.csv,759.8335340902679
+GPS Francesco,P2,../data/P2/aec20d08-f114-4f63-87e1-23a6181456ef-resampled.csv,761.4733236269441
+GPS chiara,P2,../data/P2/bf87b2f3-9e81-438a-90cf-7046750c2ebd-resampled.csv,760.3916395359133
+GPS bea,P2,../data/P2/dacec0b0-7f24-4e92-bba3-e5b6e8649b90-resampled.csv,763.3366245952789
+GPS Sofia,P2,../data/P2/fed06dd6-c72c-477f-8778-23ca991ce4ea-resampled.csv,760.8162837646701
