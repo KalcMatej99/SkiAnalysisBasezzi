@@ -1,4 +1,4 @@
-# PetraBazecci_MAG
+# SkiAnalysisBasezzi
 Ski analysis of athletes using GPS.
 
 
