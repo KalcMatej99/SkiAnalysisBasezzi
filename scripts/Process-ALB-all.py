@@ -42,9 +42,9 @@ for day in ["G1", "P1", "P2"]:
                         worksheet.write(row, 2, run["id"])
                         worksheet.write(row, 3, day)
                         worksheet.write(row, 4, run["totalDuration"])
-                        label, index_label = run['label'], 2
+                        label, index_label = run['label'].lower(), 2
                         while label in df["Atleta"].to_numpy():
-                            label = f"{run['label']}_{index_label}"
+                            label = f"{run['label'].lower()}_{index_label}"
                             index_label += 1
                         
                         dnf = "dnf" in label.lower()
